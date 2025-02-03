@@ -6,4 +6,5 @@ This repository is built step in the tutorial.
 
 This repository is built step by step in the tutorial.
 
+Also changes
 It now includes steps for GitHub
